@@ -1,4 +1,3 @@
 # AssignmentTest
 
-Added SQL Server DB File in Extra\DB Folder.
-Need to call 
+Added SQL Server script file in root folder, file named as script.sql
